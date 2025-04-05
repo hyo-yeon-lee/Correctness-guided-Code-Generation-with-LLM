@@ -1,7 +1,7 @@
 # Installation Guide
 ### 1. Clone the repository by running
    ```bash
-   git clone git@github.com:fw22912/Correctness-guided-Code-Generation-with-LLM.git
+   git clone git@github.com:hyo-yeon-lee/Correctness-guided-Code-Generation-with-LLM.git
    ```
 ### 2. Export the API key for Gemini in your terminal
    ```bash
